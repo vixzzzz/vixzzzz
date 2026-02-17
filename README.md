@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas De Informações`**
 
-Me chamo Victor Emanuel, tenho 21 anos e sou natural de Minas Gerais. Estou cursando S.I na Universidade Federal De Lavras (UFLA).
+Seja bem vindo! Eu me chamo Victor Emanuel, tenho 21 anos e sou natural de Minas Gerais. Estou cursando S.I na Universidade Federal De Lavras (UFLA).
 
 ### 🤖 Linguagens e Tecnologias
 
