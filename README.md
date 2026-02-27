@@ -10,7 +10,6 @@ Seja bem-vindo ao meu perfil! Tenho 21 anos, sou natural de Minas Gerais e atual
 * 🎓 Cursando **Sistemas de Informação** na UFLA.
 * 💻 Desenvolvendo projetos práticos com foco em **Backend** e integração de APIs.
 * 🛠️ Atualmente aprofundando conhecimentos em **Java 25**, **Maven** e **Git/GitHub**.
-* 📍 Localização: Lavras - MG.
 
 ---
 
